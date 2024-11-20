@@ -1,0 +1,51 @@
+ID,Fecha,Cliente,Producto,Categoría,Cantidad,Precio Unitario,Total,Región
+1,2024/09/28,David Arnold,Bolso,Accesorios,4,71.4,285.6,Norte
+2,2024/06/24,Marissa Newton,Falda,Ropa Hombre,4,10.71,42.84,Este
+3,2024/09/05,Sarah Allen,Zapatos,Ropa Mujer,4,89.69,358.76,Norte
+4,2024/01/03,Ashley Payne,Camisa,Calzado,2,52.01,104.02,Norte
+5,2024/02/25,Hector Gardner,Bolso,Accesorios,3,52.12,156.35999999999999,Centro
+6,2024/08/08,David Snyder,Bolso,Calzado,1,50.9,50.9,Oeste
+7,2024/08/08,Karen Blevins,Falda,Ropa Mujer,5,69.15,345.75,Este
+8,2024/05/26,Aaron Ramirez,Zapatos,Ropa Mujer,4,18.0,72.0,Oeste
+9,2024/03/15,Timothy Horne,Bolso,Ropa Mujer,1,69.4,69.4,Norte
+10,2024/07/05,Tina Mcmahon,Sombrero,Calzado,4,74.43,297.72,Centro
+11,2024/08/04,Eddie Taylor,Pantalón,Ropa Mujer,1,86.59,86.59,Centro
+12,2024/03/16,Christine Yates,Falda,Ropa Mujer,5,50.81,254.05,Oeste
+13,2024/09/02,Alexis Mccarty,Sombrero,Accesorios,1,37.78,37.78,Norte
+14,2024/10/06,Jamie Ball,Camisa,Calzado,5,69.48,347.40000000000003,Norte
+15,2024/06/15,Adam Frazier,Pantalón,Accesorios,5,53.77,268.85,Este
+16,2024/02/25,Chad Martinez,Falda,Calzado,1,47.43,47.43,Oeste
+17,2024/02/20,Hannah Macdonald,Pantalón,Accesorios,5,28.94,144.70000000000002,Este
+18,2024/02/01,Kimberly Turner,Sombrero,Ropa Mujer,4,32.33,129.32,Este
+19,2024/09/07,Ashley Garcia,Sombrero,Ropa Mujer,1,83.37,83.37,Centro
+20,2024/08/28,Sarah Gallegos,Bolso,Calzado,4,46.77,187.08,Este
+21,2024/04/27,Maria Moore,Pantalón,Ropa Hombre,4,94.82,379.28,Oeste
+22,2024/01/27,Pamela Cobb,Bolso,Ropa Mujer,5,51.94,259.7,Centro
+23,2024/02/23,Joseph Cole,Bolso,Accesorios,4,25.46,101.84,Sur
+24,2024/06/16,Donald Williams,Falda,Ropa Hombre,2,94.91,189.82,Oeste
+25,2024/07/09,James Nichols,Sombrero,Ropa Hombre,4,55.12,220.48,Centro
+26,2024/02/03,Sara Gordon,Blusa,Ropa Hombre,1,64.81,64.81,Norte
+27,2024/04/11,John Rasmussen,Pantalón,Ropa Hombre,2,71.63,143.26,Sur
+28,2024/04/07,Brandon Ortiz,Zapatos,Calzado,3,46.46,139.38,Sur
+29,2024/05/13,Candice Gardner,Camisa,Accesorios,1,63.93,63.93,Oeste
+30,2024/03/16,Joanna Camacho,Blusa,Ropa Hombre,4,85.26,341.04,Oeste
+31,2024/04/06,Connor Merritt,Bolso,Accesorios,3,67.42,202.26,Este
+32,2024/07/08,Savannah Martin,Falda,Calzado,1,12.61,12.61,Este
+33,2024/10/17,Mark Good,Camisa,Ropa Hombre,4,28.08,112.32,Oeste
+34,2024/08/25,Elizabeth Watson,Pantalón,Ropa Mujer,2,23.2,46.4,Sur
+35,2024/09/04,Marcus Byrd,Pantalón,Calzado,3,44.66,133.98,Este
+36,2024/07/03,Ronnie Wilson,Blusa,Ropa Mujer,5,80.12,400.6,Sur
+37,2024/06/16,Brenda Jackson,Zapatos,Ropa Mujer,3,72.59,217.77,Norte
+38,2024/05/23,Mark Harris,Blusa,Ropa Mujer,2,87.43,174.86,Sur
+39,2024/06/11,Keith Williams,Sombrero,Ropa Hombre,2,16.4,32.8,Oeste
+40,2024/08/11,Terri Mills,Sombrero,Calzado,1,53.27,53.27,Oeste
+41,2024/01/18,Andrea Novak,Sombrero,Calzado,2,55.64,111.28,Este
+42,2024/04/18,Jason Murphy,Blusa,Ropa Hombre,5,97.48,487.40000000000003,Centro
+43,2024/05/18,Suzanne Gonzalez,Pantalón,Accesorios,1,48.38,48.38,Oeste
+44,2024/06/24,Pamela Spence DDS,Pantalón,Calzado,5,85.32,426.59999999999997,Sur
+45,2024/06/27,Tony Carter,Zapatos,Ropa Mujer,5,52.48,262.4,Sur
+46,2024/05/22,Ashley Smith,Sombrero,Ropa Hombre,5,59.48,297.4,Sur
+47,2024/02/20,Dustin Smith,Blusa,Accesorios,4,21.53,86.12,Centro
+48,2024/03/19,Jean Rose,Zapatos,Ropa Mujer,2,15.85,31.7,Sur
+49,2024/06/12,Kimberly Robinson,Bolso,Ropa Mujer,1,52.97,52.97,Oeste
+50,2024/10/19,William Lewis,Blusa,Ropa Mujer,5,25.79,128.95,Este
